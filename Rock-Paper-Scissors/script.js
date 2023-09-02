@@ -41,6 +41,6 @@ else if(playerscore > computerscore ){
 }
 
 
-else{    console.log("its tie " +"\n" + "computer " + computerscore + "  " + "player " + playerscore);
+else{console.log("its tie " +"\n" + "computer " + computerscore + "  " + "player " + playerscore);
 }
 
